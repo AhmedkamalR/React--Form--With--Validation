@@ -1,0 +1,59 @@
+/* .App {
+  text-align: center;
+}
+.hero{
+  background-image: url(../src/images/about.jpg);
+  width: 1000px;
+  height: 500px;
+}
+
+.fadeIn {
+  animation-duration: 0.7s;
+  animation-fill-mode: forwards;
+  animation-name: fadeIn;
+  animation-timing-function: ease-in-out;
+}
+.progress_bar {
+  margin-bottom: 10px;
+  position: relative;
+}
+.progress_bar_title {
+  color: hsl(0, 0%, 0%);
+  display: inline;
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.progress_number {
+  color: #a2a1a4;
+  font-size: 13px;
+  font-weight: 900;
+  position: absolute;
+  right: 0;
+  text-transform: uppercase;
+  top: 0;
+}
+.progress_bar_holder {
+  background: #d6d9dc;
+  margin-top: 5px;
+}
+.progress_bar_content {
+  height: 5px;
+  transition: width 1s ease-in-out 0s;
+}
+p{
+  font-size: 0.75em;
+}
+
+section{
+  background-color: #d4bdbd;
+} */
+/* footer {
+  padding: 2rem 0;
+  color: #fff;
+}
+i {
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 1.3rem;
+} */
